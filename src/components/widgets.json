@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "heading": "Widget 1",
+      "name": "Sales Chart",
+      "graph": "Bar"
+    },
+    {
+      "id": 2,
+      "heading": "Widget 2",
+      "name": "Revenue Graph",
+      "graph": "Line"
+    }
+  ]
+  
